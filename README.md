@@ -1,6 +1,6 @@
 <!-- 打字介绍 -->
 <p align="center">
-  <a hrer="https://github.com/Fieeos"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=3000&pause=1000&color=1F00FFFB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=435&lines=Welcome+to+the+Fieeos+Github+warehouse"></a>
+  <a hrer="https://github.com/fieeos"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=3000&pause=1000&color=1F00FFFB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=435&lines=Welcome+to+the+Fieeos+Github+warehouse"></a>
 </p>
 
 <!-- 技能 -->
@@ -15,7 +15,7 @@
 
 <!-- 热力图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fieeos/Fieeos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fieeos/Fieeos/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fieeos/Fieeos/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fieeos/fieeos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fieeos/fieeos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fieeos/fieeos/output/github-contribution-grid-snake.svg">
 </picture>
