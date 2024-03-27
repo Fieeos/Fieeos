@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=3000&pause=1000&color=1F00FFFB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=435&lines=Welcome+to+the+Fieeos+Github+warehouse)](https://git.io/typing-svg)
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.PHP-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
