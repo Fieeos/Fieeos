@@ -3,8 +3,8 @@
 ---- 
 
 - 🙊 My blog: [追寻笔记](https://fieeos.com/)
-- 📫 My email: 'fieeos@qq.com'
-- 🐶 My wechat: 'Fieeoss'
+- 📫 My email: `fieeos@qq.com`
+- 🐶 My wechat: `Fieeoss`
 
 ![.NET](https://img.shields.io/badge/.PHP-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![css](https://img.shields.io/badge/-CSS-007396?style=flat-square&logo=java&logoColor=ffffff)
