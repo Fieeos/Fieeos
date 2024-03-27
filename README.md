@@ -2,7 +2,7 @@
 
 ---- 
 
-- 🙊 My blog: [一面之猿网](https://fieeos.com/)
+- 🙊 My blog: [追寻笔记](https://fieeos.com/)
 - 📫 My email: `fieeos@qq.com
 - 🐶 My wechat: Fieeoss
 
