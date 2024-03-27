@@ -1,13 +1,17 @@
 <!-- 打字介绍 -->
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=3000&pause=1000&color=1F00FFFB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=435&lines=Welcome+to+the+Fieeos+Github+warehouse)](https://github.com/Fieeos)
+</p>
 
 <!-- 技能 -->
+<p align="center">
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+</p>
 
 <!-- 热力图-->
 <picture>
