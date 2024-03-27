@@ -13,6 +13,11 @@
   <a title="github" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=ffffff"></a>
 </p>
 
+<!-- 爱好 -->
+<p align="center">
+  <a title="Photon" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=ffffff"></a>
+</p>
+
 <!-- 热力图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fieeos/fieeos/output/github-contribution-grid-snake-dark.svg">
