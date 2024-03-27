@@ -1,10 +1,12 @@
+<!-- 打字介绍 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=3000&pause=1000&color=1F00FFFB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=435&lines=Welcome+to+the+Fieeos+Github+warehouse)](https://git.io/typing-svg)
 
 ---- 
-
+<!-- 联系 -->
 - 📫 My email: `fieeos@qq.com`
 - 🐶 My wechat: `Fieeoss`
 
+<!-- 技能 -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
@@ -18,5 +20,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fieeos/Fieeos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fieeos/Fieeos/output/github-contribution-grid-snake.svg">
 </picture>
-
-_generated with [Platane/snk](https://github.com/fieeos)_
