@@ -6,7 +6,7 @@
 - 🐶 My wechat: `Fieeoss`
 
 ![CSS](https://img.shields.io/badge/CSS-F05032?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-F05032?style=flat-square&logo=php&logoColor=777BB4)
+![PHP](https://img.shields.io/badge/PHP-77bb4?style=flat-square&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
