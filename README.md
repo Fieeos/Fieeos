@@ -7,7 +7,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-![](https://raw.githubusercontent.com/Fieeos/Fieeos/main/dist/github-contribution-grid-snake.svg)
-
 <!-- 热力图-->
 ![](https://raw.githubusercontent.com/fieeos/fieeos/main/dist/github-contribution-grid-snake.svg)
