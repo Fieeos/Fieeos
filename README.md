@@ -5,13 +5,10 @@
 - 📫 My email: `fieeos@qq.com`
 - 🐶 My wechat: `Fieeoss`
 
-![.NET](https://img.shields.io/badge/.PHP-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
-![css](https://img.shields.io/badge/-CSS-007396?style=flat-square&logo=java&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-F05032?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-![CSS](https://img.shields.io/badge/CSS-F05032?style=flat-square&logo=css3&logoColor=white)
 
 <!-- 热力图-->
 <picture>
