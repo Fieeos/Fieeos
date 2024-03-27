@@ -1,1 +1,1 @@
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=fieeos" /> </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+the+Fieeos+Github+warehouse)](https://git.io/typing-svg)
