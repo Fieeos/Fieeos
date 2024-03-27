@@ -11,6 +11,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
+![CSS](https://img.shields.io/badge/CSS-F05032?style=flat-square&logo=css3&logoColor=white)
+
 <!-- 热力图-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fieeos/Fieeos/output/github-contribution-grid-snake-dark.svg">
