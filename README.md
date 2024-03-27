@@ -8,6 +8,6 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 <!-- 热力图-->
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fieeos/fieeos/blob/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fieeos/fieeos/main/github-contribution-grid-snake.svg">
 
 _generated with [Platane/snk](https://github.com/fieeos)_
