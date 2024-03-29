@@ -10,12 +10,6 @@
   <a title="JavaScript" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"></a>
   <a title="PHP" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff"></a>
   <a title="Docker" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff"></a>
-  <a title="github" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=ffffff"></a>
-</p>
-
-<!-- 爱好 -->
-<p align="center">
-  <a title="Photon" target="_blank" href="https://github.com/fieeos"><img src="https://img.shields.io/badge/Photon-004480?style=flat-square&logo=photon&logoColor=ffffff"></a>
 </p>
 
 <!-- 热力图-->
